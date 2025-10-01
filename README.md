@@ -23,5 +23,5 @@ Hi! I'm transitioning from Business Intelligence to Data Science & AI/ML Enginee
 - EDA, feature engineering, model comparison
 - [Notebook](https://github.com/tejasp0412/my-ai-portfolio/blob/main/notebooks/churn_prediction.ipynb)
 
-> 📬 Contact me: your.email@example.com  
+> 📬 Contact me: tejasp0412@gmail.com  
 > 🔗 LinkedIn: [linkedin.com/in/tejaspatil92](https://linkedin.com/in/tejaspatil92)
